@@ -1,0 +1,25 @@
+# VUE CRUD DEMO
+
+> CRUD GUI demo by VUEjs
+
+## Environment
+
+`Node >= 6`
+
+``` bash
+npm install
+```
+
+## Develop
+
+``` bash
+# serve with hot reload at localhost:8010
+npm run dev
+```
+
+## Build
+
+``` bash
+# build for production with minification
+npm run build
+```
