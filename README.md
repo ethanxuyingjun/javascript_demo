@@ -1,2 +1,2 @@
 # javascript_demo
-js demo for CRUD
+JS DEMO for CRUD
