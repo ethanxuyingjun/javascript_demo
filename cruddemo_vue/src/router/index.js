@@ -3,8 +3,7 @@ import Router from 'vue-router'
 
 Vue.use(Router)
 
-// route-level code splitting
-const AddressListView = () => import('../views/AddressListView.vue')
+const AddressListView = require('../views/AddressListView.vue').default;
 
 export function createRouter () {
   return new Router({
