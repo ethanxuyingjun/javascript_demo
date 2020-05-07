@@ -13,3 +13,10 @@ npm-debug.log*
 # umi
 .umi
 .umi-production
+
+# sencha
+/build
+bootstrap.*
+classic.json*
+modern.json*
+.sencha
